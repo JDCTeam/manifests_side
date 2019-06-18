@@ -4,7 +4,7 @@
 To initialize your local repository, use command:
 
 ```bash
-    repo init -u https://github.com/jdcteam/manifests.git -b arrow-pie
+    repo init -u https://github.com/jdcteam/manifests_side.git -b arrow-pie
 ```
 
 
